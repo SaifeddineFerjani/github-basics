@@ -1,3 +1,4 @@
-modification 3 from local branch
+delete modification 3 
+add modification 4 master
 delete modification 1
 add modifications 2
