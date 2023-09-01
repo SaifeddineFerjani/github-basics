@@ -1,2 +1,1 @@
-delete modifications rb2 
-modifications from master
+merge modifications 
