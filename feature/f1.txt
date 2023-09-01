@@ -1,1 +1,2 @@
-modification 1
+delete modification 1
+add modifications 2
